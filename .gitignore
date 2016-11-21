@@ -1,0 +1,11 @@
+*.pyc
+__pycache__
+*.sqlite3
+.cache
+.coverage
+.eggs
+*.egg-info
+*~
+.emacs.desktop
+.emacs.desktop.lock
+production_settings.py
